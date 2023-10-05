@@ -1,0 +1,6 @@
+@import 'tailwind.css';
+/* Custom CSS */
+.blue-bg{
+    background-color: #101522 !important;
+    color: #94a3b8;
+}
